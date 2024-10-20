@@ -1,0 +1,20 @@
+<html>
+    <head>
+        <title>Animation</title>
+        <style>
+            body{
+                background-repeat: no-repeat;
+                background-size: 100% 100%;
+                background-attachment: fixed;
+            }
+        </style>
+    </head>
+    <body background = "bcrnd.jpeg">
+        <br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+        <marquee direction="right" scrollamount = "20">
+            
+            <img src ="dogrunn.gif" width="22%"/>&emsp;&emsp;&emsp;
+            <img src ="catrun.gif" width="22%"/>&emsp;
+        </marquee>
+    </body>
+</html>
